@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationWithInternallyScheduledWebJobs", "WebApplicationWithInternallyScheduledWebJobs\WebApplicationWithInternallyScheduledWebJobs.csproj", "{B8A35A04-9375-45D3-AAD5-DFA529297DDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJobWIthSchedule", "WebJobWIthSchedule\WebJobWIthSchedule.csproj", "{26F9F0FB-1491-4727-974F-931BCCD70515}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJobWithSchedule", "WebJobWIthSchedule\WebJobWithSchedule.csproj", "{26F9F0FB-1491-4727-974F-931BCCD70515}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
